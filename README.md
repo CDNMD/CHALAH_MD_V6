@@ -4,7 +4,7 @@
 
 
 
-<img src="https://files.catbox.moe/3vo9e6.jpg" height="400" width="150%">
+<img src="https://files.catbox.moe/3vo9e6.jpg" height="250" width="100%">
 
 
 
