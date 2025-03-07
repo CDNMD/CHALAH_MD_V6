@@ -1,24 +1,21 @@
 {
-  "name": "CHALAH MD",
-  "description": "CHALAH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": " ",
-  "keywords": ["CHALAH-MD", "bot", "whatsapp bot"],
+ "name": "🧚‍♀️CHALAH-MD-𝗩❼💗",
+  "description": "Javascript WhatsApp bot made by CHALAH Official",
+  "logo": "https://files.catbox.moe/3vo9e6.jpg",
+  "keywords": ["bot"],
   "success_url": "/",
 
-  "env": {
-    "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+    "env": {
+        "SESSION_ID": {
+            "description": "Type the Session-ID you got from pair or scan qr.",
             "required": true,
             "value": "put session id here"
         }
-
     },
-         "buildpacks": [
+    "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],
   "stack": "heroku-24"
-  
-  
 }
